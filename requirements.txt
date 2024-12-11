@@ -3,7 +3,7 @@ click>=8.0.4
 leidenalg
 louvain
 numba<=0.57.1
-numpy>=1.18,<1.22
+numpy>=1.18
 Pillow>=9.0.1
 scanpy>=1.8.2
 scikit-image>=0.19.2
